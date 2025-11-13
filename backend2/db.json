@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Farid Ahmed",
+      "email": "farid.ahmed@example.com",
+      "age": 27,
+      "country": "United Arab Emirates",
+      "isActive": true,
+      "id": "8f85"
+    },
+    {
+      "id": "5e55",
+      "name": "Ramin Mammad",
+      "email": "noemail@mail.com",
+      "age": 65,
+      "country": "Azerbaijan",
+      "isActive": false
+    },
+    {
+      "id": "da1a",
+      "name": "dsds",
+      "email": "skbds@sbdsds.ds",
+      "age": 45,
+      "country": "hsdbd",
+      "isActive": false
+    },
+    {
+      "id": "4c91",
+      "name": "ewfewf",
+      "email": "ewfew@weferfrf",
+      "age": 23,
+      "country": "erferf",
+      "isActive": false
+    }
+  ]
+}
